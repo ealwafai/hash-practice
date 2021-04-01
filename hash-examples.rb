@@ -9,3 +9,7 @@ animal = {
           "ears" => "two"
           "tail" => "one"
 }
+
+customer = {
+            "age" => "old"  
+}
